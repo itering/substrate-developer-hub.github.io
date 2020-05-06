@@ -387,6 +387,14 @@ const usersList = [{
     type: "infra",
   },
   {
+    name: "SUBSCAN",
+    image: "/img/users/SUBSCAN.svg",
+    homepage: "https://subscan.io/",
+    github: "https://github.com/itering/subscan",
+    pinned: false,
+    type: "infra",
+  },
+  {
     name: "Subsocial",
     image: "/img/users/subsocial.svg",
     homepage: "http://subsocial.network/",
